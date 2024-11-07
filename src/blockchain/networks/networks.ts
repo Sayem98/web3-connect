@@ -1,6 +1,6 @@
 // import { Networks } from "@/lib/types/network";
 
-import { Networks, Network } from "../../lib/types/network";
+import type { Networks, Network } from "../../lib/types/network";
 
 const networks: Networks = {
   11155111: {
